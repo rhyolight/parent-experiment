@@ -1,0 +1,3 @@
+[submodule "child-experiment"]
+	path = child-experiment
+	url = git@github.com:rhyolight/child-experiment.git
